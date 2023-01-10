@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ObjectPoll">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ObjectPool/out/artifacts/ObjectPoll/ObjectPoll.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
